@@ -1,2 +1,3 @@
-# MayaVaccineCleaner
-Clean .ma files infected with the vaccine virus
+Maya files can get infected with a common Maya virus called the Vaccine virus. It is more of a nuisance than a virus and won’t harm any of your files. Before these scenes are even loaded, Maya also has built in security to flag these infected files and you may get popup warnings. To prevent these constant popup warnings you can run this tool. This tool will check out your file from P4, clean it, and resubmit it to P4. This uses a proprietary P4 module so you will have to modify this for personal use.
+
+You can select your file(s) with the blue button, or copy and paste any number of file paths in the text box. When you click ‘Clean Files’ it will let you know if the file was successfully cleaned. Once that is complete your scene will be virus free and you can reopen your scene with no security warnings.
